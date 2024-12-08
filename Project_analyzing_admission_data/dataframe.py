@@ -153,4 +153,3 @@ plt.show()
 sns.boxplot(x='Diagnosis', y='Length of Stay', data=df)
 plt.title('Cost Reduction based on treatment analysis')
 plt.show()
-
